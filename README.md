@@ -66,7 +66,7 @@ The notebooks use the MNIST dataset for image generation tasks. The dataset will
 
 ## License
 
-This is an educational project. Feel free to use and modify the code for learning purposes.
+Feel free to use and modify the code.
 
 ## Acknowledgments
 
