@@ -29,7 +29,7 @@ Discover how to work in compressed latent spaces using Variational Autoencoders 
 Implement gradient-based steering mechanisms that can guide generation toward specific properties or constraints at inference time without retraining the model.
 
 ## Next steps
-It would be interesting to explore more advanced concepts like Diffusion Transformers, DDPM and Optimal Transport.
+It would be interesting to explore more advanced concepts like Diffusion Transformers, Optimal Transport and Multi-Objective Optimization.
 
 ## Requirements
 
